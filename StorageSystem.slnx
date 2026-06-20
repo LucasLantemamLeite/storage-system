@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Itens da solução/">
+    <File Path="ReadMe.md"/>
+    <File Path=".gitignore"/>
+    <File Path="Dockerfile"/>
+    <File Path=".dockerignore"/>
+  </Folder>
+  
+  <Project Path="StorageSystem/StorageSystem.csproj" />
+</Solution>
